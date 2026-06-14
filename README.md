@@ -1,1 +1,1 @@
-# This is my raedme file
+# This is my raedme file and am just learning the git 
